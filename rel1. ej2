@@ -4,3 +4,5 @@ altura= int(input("Dame una altura:"))
 area= base*altura
 print("El area es:", area)
 #print(f "El area es: {area}")
+#prueba de github
+#prueba 2
