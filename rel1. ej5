@@ -1,0 +1,5 @@
+#resolver una ecuacion de primer grado
+a= float(input("Dame el coeficiente a:"))
+b= float(input("Dame el coeficiente B:"))
+x= -b/a
+print(f"la solucion es: {x}")

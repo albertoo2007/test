@@ -1,0 +1,4 @@
+#Convertir pulgadas a centimetros
+pulgadas= float(input("Dame una longitud en pulgadas:"))
+centimetros = pulgadas*2.54
+print(f"La longitud en centimetros es:{centimetros}")

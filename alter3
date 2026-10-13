@@ -1,0 +1,8 @@
+#leer un numero y visualizar si es positivo, negativo o nulo
+n= int(input("Dame un numero:"))
+if n>0:
+    print("POSITIVO")
+elif n<0:
+    print("NEGATIVO")
+else:
+    print("NULO")

@@ -1,0 +1,6 @@
+#Calcular la hipotenusa de un triangulo rectangulo
+import math
+cateto1= float(input ("Dame el primer cateto: "))
+cateto2= float(input("Dame el segundo cateto: "))
+hipotenusa= math.sqrt(cateto1**2 + cateto2**2)
+print(f"La hipotenusa es: {hipotenusa}")
